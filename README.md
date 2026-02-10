@@ -39,9 +39,25 @@ The Stadium Ticket Booking System allows users to view upcoming matches, book ti
 6. Open browser and visit:
 
 
+📄 Database Details – Stadium Ticket Booking System
+
+Database Name: stadiumdb
+Database Type: MySQL
+Database File: stadiumdb.sql
+
+Database Setup Steps
+
+1.Open XAMPP Control Panel
+2.Start Apache and MySQL
+3.Open browser and go to phpMyAdmin
+4.Create a new database named: stadiumdb
+5.Select the database and click on Import
+6.Import the file: stadiumdb.sql
+7.Database tables will be created automatically
+
 ## Folder Structure
 
-Stadium_Ticket_Bokking/
+Stadium_Ticket_Booking/
 ├── admin/          # Admin panel files
 ├── img/            # Images used in the project
 ├── phpmailer/      # Email functionality
@@ -56,5 +72,5 @@ Stadium_Ticket_Bokking/
 ├── matches.php     # Match listing
 ├── pay.php         # Payment handling
 ├── seats.php       # Seat selection
-│
+│__ stadiumdb.sql   # database file
 └── README.md
