@@ -74,3 +74,9 @@ Stadium_Ticket_Booking/
 ├── seats.php       # Seat selection
 │__ stadiumdb.sql   # database file
 └── README.md
+
+## Future Enhancements
+- Online payment integration
+- Seat map selection
+- Email & SMS ticket confirmation
+- QR code based ticket validation
