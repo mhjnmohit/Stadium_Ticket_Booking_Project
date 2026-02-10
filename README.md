@@ -80,3 +80,6 @@ Stadium_Ticket_Booking/
 - Seat map selection
 - Email & SMS ticket confirmation
 - QR code based ticket validation
+
+## Author
+Developed by Mohit Mahajan
