@@ -70,7 +70,7 @@ Stadium_Ticket_Booking/
 ├── matches.php     # Match listing
 ├── pay.php         # Payment handling
 ├── seats.php       # Seat selection
-│__ stadiumdb.sql   # database file
+│__ stadiumdb.sql   # database sql file
 └── README.md
 
 ## Future Enhancements
