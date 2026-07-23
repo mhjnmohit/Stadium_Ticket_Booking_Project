@@ -80,4 +80,4 @@ Stadium_Ticket_Booking/
 - QR code based ticket validation
 
 ## Author
-Developed by Mohit Mahajan
+Developed by Mohit Mahajan 
